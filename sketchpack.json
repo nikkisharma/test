@@ -1,0 +1,5 @@
+{
+    "name": "Your Plugin Name",
+    "description": "A nice long description of your plugin. Go as wild as you want",
+    "tags": ["tag1", "tag2", "tag3", "tag4"]
+}
